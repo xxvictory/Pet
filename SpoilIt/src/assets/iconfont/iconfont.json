@@ -1,0 +1,345 @@
+{
+  "id": "1652458",
+  "name": "宠物",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14055529",
+      "name": "QQ",
+      "font_class": "QQ1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "14055582",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "14437578",
+      "name": "订单",
+      "font_class": "dingdan-copy",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "14437589",
+      "name": "收藏",
+      "font_class": "shoucang-copy",
+      "unicode": "e883",
+      "unicode_decimal": 59523
+    },
+    {
+      "icon_id": "14437608",
+      "name": "相册",
+      "font_class": "xiangce-copy",
+      "unicode": "e884",
+      "unicode_decimal": 59524
+    },
+    {
+      "icon_id": "14433209",
+      "name": "设置",
+      "font_class": "shezhi-copy",
+      "unicode": "e881",
+      "unicode_decimal": 59521
+    },
+    {
+      "icon_id": "14433205",
+      "name": "分享",
+      "font_class": "fenxiang-copy",
+      "unicode": "e880",
+      "unicode_decimal": 59520
+    },
+    {
+      "icon_id": "14376826",
+      "name": "箭头",
+      "font_class": "jiantou-copy-copy",
+      "unicode": "e877",
+      "unicode_decimal": 59511
+    },
+    {
+      "icon_id": "13765370",
+      "name": "待发货",
+      "font_class": "daifahuo2-copy",
+      "unicode": "e87b",
+      "unicode_decimal": 59515
+    },
+    {
+      "icon_id": "13765371",
+      "name": "待付款",
+      "font_class": "daifukuan-copy",
+      "unicode": "e87c",
+      "unicode_decimal": 59516
+    },
+    {
+      "icon_id": "13765372",
+      "name": "评价",
+      "font_class": "pingjia-copy",
+      "unicode": "e87d",
+      "unicode_decimal": 59517
+    },
+    {
+      "icon_id": "13765375",
+      "name": "退款",
+      "font_class": "tuikuan-copy",
+      "unicode": "e87e",
+      "unicode_decimal": 59518
+    },
+    {
+      "icon_id": "13765377",
+      "name": "待收货",
+      "font_class": "daishouhuo-copy",
+      "unicode": "e87f",
+      "unicode_decimal": 59519
+    },
+    {
+      "icon_id": "13618854",
+      "name": "打卡",
+      "font_class": "daka-copy",
+      "unicode": "e87a",
+      "unicode_decimal": 59514
+    },
+    {
+      "icon_id": "13618605",
+      "name": "消息",
+      "font_class": "xiaoxi-copy",
+      "unicode": "e876",
+      "unicode_decimal": 59510
+    },
+    {
+      "icon_id": "13618611",
+      "name": "转发",
+      "font_class": "zhuanfa--copy",
+      "unicode": "e878",
+      "unicode_decimal": 59512
+    },
+    {
+      "icon_id": "13618614",
+      "name": "打卡",
+      "font_class": "daka-copy1",
+      "unicode": "e879",
+      "unicode_decimal": 59513
+    },
+    {
+      "icon_id": "13602707",
+      "name": "右箭头",
+      "font_class": "ic_arrowr-copy",
+      "unicode": "e875",
+      "unicode_decimal": 59509
+    },
+    {
+      "icon_id": "13449292",
+      "name": "箭头",
+      "font_class": "jiantou-copy",
+      "unicode": "e874",
+      "unicode_decimal": 59508
+    },
+    {
+      "icon_id": "13333597",
+      "name": "更多",
+      "font_class": "xiangqing-copy",
+      "unicode": "e873",
+      "unicode_decimal": 59507
+    },
+    {
+      "icon_id": "13329918",
+      "name": "钱",
+      "font_class": "qian-copy",
+      "unicode": "e872",
+      "unicode_decimal": 59506
+    },
+    {
+      "icon_id": "13198759",
+      "name": "活动,五角星,星",
+      "font_class": "iconzhengli--copy",
+      "unicode": "e86f",
+      "unicode_decimal": 59503
+    },
+    {
+      "icon_id": "13198760",
+      "name": "更多",
+      "font_class": "gengduo-copy",
+      "unicode": "e870",
+      "unicode_decimal": 59504
+    },
+    {
+      "icon_id": "13198761",
+      "name": "更多",
+      "font_class": "gengduo1-copy",
+      "unicode": "e871",
+      "unicode_decimal": 59505
+    },
+    {
+      "icon_id": "13193984",
+      "name": "添加好友-01",
+      "font_class": "tianjiahaoyou--copy",
+      "unicode": "e86d",
+      "unicode_decimal": 59501
+    },
+    {
+      "icon_id": "13193988",
+      "name": "添加",
+      "font_class": "tianjia-copy",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "13165617",
+      "name": "点赞",
+      "font_class": "dianzan-copy",
+      "unicode": "e86c",
+      "unicode_decimal": 59500
+    },
+    {
+      "icon_id": "13134182",
+      "name": "加号",
+      "font_class": "jiahao-copy",
+      "unicode": "e86b",
+      "unicode_decimal": 59499
+    },
+    {
+      "icon_id": "13132194",
+      "name": "宠物寄养",
+      "font_class": "chongwujiyang-copy",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "13132197",
+      "name": "宠物乐园",
+      "font_class": "chongwuleyuan-copy",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "13132200",
+      "name": "宠物联盟",
+      "font_class": "chongwulianmeng-copy",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "13132201",
+      "name": "宠物睡窝",
+      "font_class": "chongwushuiwo-copy",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "13132215",
+      "name": "宠物摄影",
+      "font_class": "chongwusheying-copy",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "13132217",
+      "name": "宠物美容",
+      "font_class": "chongwumeirong-copy",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "13132218",
+      "name": "宠物训练",
+      "font_class": "chongwuxunlian-copy",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "13132219",
+      "name": "宠物洗浴",
+      "font_class": "chongwuxiyu-copy",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "13132220",
+      "name": "宠物医疗",
+      "font_class": "chongwuyiliao-copy",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "13132223",
+      "name": "待产养护",
+      "font_class": "daichanyanghu-copy",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "13132225",
+      "name": "零食罐头",
+      "font_class": "lingshiguantou-copy",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "13132226",
+      "name": "服装装饰",
+      "font_class": "fuzhuangzhuangshi-copy",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "13132232",
+      "name": "零售用品",
+      "font_class": "lingshouyongpin-copy",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "13132233",
+      "name": "喂食器皿",
+      "font_class": "weishiqimin-copy",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "13132235",
+      "name": "项圈用品",
+      "font_class": "xiangquanyongpin-copy",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "13132261",
+      "name": "小狗出售",
+      "font_class": "xiaogouchushou-copy",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "13132265",
+      "name": "洗浴用品",
+      "font_class": "xiyuyongpin-copy",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "13132270",
+      "name": "小猫出售",
+      "font_class": "xiaomaochushou-copy",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "13132274",
+      "name": "宠物玩具",
+      "font_class": "chongwuwanju-copy",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "13132276",
+      "name": "食品干粮",
+      "font_class": "shipinganliang-copy",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<template>
+  <van-tabbar route>
+    <van-tabbar-item
+      replace
+      to="/"
+      icon="home-o">
+      首页
+    </van-tabbar-item>
+    <van-tabbar-item
+      replace
+      to="/petcircle"
+      icon="flower-o">
+      广场
+    </van-tabbar-item>
+    <van-tabbar-item
+    replace
+    to="/shopping"
+    icon="shop-o">
+    商城
+  </van-tabbar-item>
+    <van-tabbar-item
+      replace
+      to="/mine"
+      icon="smile-o">
+      我的
+    </van-tabbar-item>
+  </van-tabbar>
+</template>
+<style scoped>
+</style>
