@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@vant/waterfall": "^1.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "better-scroll": "^1.15.2",
     "body-parser": "^1.19.0",
     "node-sass": "^4.13.1",
